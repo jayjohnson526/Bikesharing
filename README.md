@@ -4,7 +4,8 @@ Creating a bikesharing app with Tableau
 ## Overview
 CitiBike is a popular bike sharing app in New York City. Users can download the app to check out a bike anywhere in the city. When the user is done with the ride, they simply lock the bike up and are charged for the duration of the trip. This service has become increasingly popular in urban areas where vehicle transportation or parking may be difficult or expensive. The goal of this project is to use Tableau to analyze CitiBike ridership data from August 2019 to develop a similar bike sharing service in Des Moines, Iowa. 
 
-**[Link to Tableau Analysis]("https://public.tableau.com/profile/jessica.johnson7779#!/vizhome/CitiBike_Challenge_16144155819860/NYCCitiBikeStory?publish=yes")**
+#### *Link to Tableau Analysis*
+[CitiBike Tableau Dashboard]("https://public.tableau.com/profile/jessica.johnson7779#!/vizhome/CitiBike_Challenge_16144155819860/NYCCitiBikeStory?publish=yes")
 
 ## Results
 
