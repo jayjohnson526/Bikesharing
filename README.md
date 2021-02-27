@@ -40,7 +40,7 @@ Male subscribers represent the greatest rider demographic regardless of the day 
 
 #### *Top Starting Locations*
 Most bikes are checked out in the Manhattan area.
-![](images/top_staring_locations.png)
+![](images/top_starting_locations.png)
 
 
 
@@ -64,15 +64,15 @@ Each circle corresponds to an individual BikeID. Cirlce size is positively corre
 
 
 ## Summary
-The CitiBike data from New York will be extremely helpful in forming a similar bike service in Des Moines. From thes analyses we've found that a majority of users are male, and that most of these riders are annual subscribers. Additionally, we've found that peak riding hours are typically during workweek commuting hours, and midday during the weekends when riders are more likely to be riding for leasure. Though the map will look different for Des Moines, we can see from the map of starting locations, that most bikes are checked out in more highly populated areas like downtown or near tourist attractions. 
+From these analyses we've found that a majority of users are male, and that most of these riders are annual subscribers. Additionally, we've found that peak riding hours are typically during workweek commuting hours, and midday during the weekends when riders are more likely to be riding for leisure. Though the map will look different for Des Moines, we can see from the map of starting locations, that most bikes are checked out in more highly populated areas like downtown or near tourist attractions. 
 
 Based on these findings, the bike app for Des Moines should focus on marketing to male riders and offering incentives for subscription. We can also reccomend placing more bikes and docking stations near downtown areas, office buildings, and tourist attractions since CitiBike in New York appears to be used primarily for commuting and/or sightseeing. 
 
 Additional analyses that would be especially infomrative for transitioning to a Des Moins include the following:
 
-1. A comparison of the number of trips bewteen different months to understand how ridership changes seasonally. The temperature in Des Moines can drop to the low teens in winter months and ice buildup on the roads may discourage ridership, unless bikes have special accomodations. 
+1. A comparison of the number of trips bewteen different months to understand how ridership changes seasonally. The temperature in Des Moines can drop to the low teens in winter months and ice buildup on the roads may discourage ridership.
 
 2. Trips by weekday by age group - This would help the Des Moines team better understand their target audience for marketing the new app.
 
-3. A measurment of the number of bikes checked out per station, and also the number of bikes checked in to each station. This will help the Des Moines team plan where to put stations in their town based on the flow of bike traffic. 
+3. A measurment of the number of bikes checked out per station, and also the number of bikes checked in to each station. This will help the Des Moines team plan where to put docking stations based on the flow of bike traffic in their town. 
 
