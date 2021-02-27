@@ -11,55 +11,55 @@ CitiBike is a popular bike sharing app in New York City. Users can download the 
 #### *Checkout Times for Users*
 Nearly all bikes are checked out for less than an hour at a time, with most rides lasting about 5 minutes.
 ![](images/checkout_times_for_users.png)
-
+#### 
 
 
 #### *Checkout Times by Gender*
 A majority of bikes are checked out by male riders. 
 ![](images/checkout_times_by_gender.png)
-
+#### 
 
 
 #### *Trips by Weekday for Each Hour*
 Rides tend to increase during weekday commuting hours (6am-9am and 4pm-7pm), and midday during weekends.
 ![](images/trips_by_weekday_for_each_hour.png)
-
+#### 
 
 
 #### *Trips by Gender (Weekday per Hour)*
 Male and female riders share similar trends when checking out bikes based on day/time. Unknown may not have enough data to identify trends.
 ![](images/trips_by_gender_weekday_per_hour.png)
-
+#### 
 
 
 #### *Trips by Gender by Weekday*
 Male subscribers represent the greatest rider demographic regardless of the day of the week.
 ![](images/trips_by_gender_by_weekday.png)
-
+####
 
 
 #### *Top Starting Locations*
 Most bikes are checked out in the Manhattan area.
 ![](images/top_starting_locations.png)
-
+#### 
 
 
 #### *Average Trip Duration*
 In general, younger riders tend to check out bikes for longer rides.
 ![](images/average_trip_duration.png)
-
+#### 
 
 
 #### *August Peak Hours*
 Confirmation that peak riding hours are between 6am-9am, and 4pm-7pm. The fewest bikes are checked out between 2am-5am.
 ![](images/august_peak_hours.png)
-
+#### 
 
 
 #### *Bike Utilization*
 Each circle corresponds to an individual BikeID. Cirlce size is positively correlated with the length of time the bike has been checked out for. This can be used to identify which bikes are in need of service or repair. 
 ![](images/bike_utilization.png)
-
+#### 
 
 
 
